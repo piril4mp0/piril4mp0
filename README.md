@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, World! I'm Murilo!
 
-<!--
-**piril4mp0/piril4mp0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "degree": "Computer Science Student",
+  "role": "Junior QA Engineer",
+  "knowledge": [
+    "Test Automation",
+    "Backend Development",
+    "Software Quality Assurance",
+    "Computer Science Fundamentals"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Fluent"
+    },
+    {
+      "language": "Portuguese",
+      "level": "Native"
+    }
+  ],
+  "interests": [
+    "RPG Games",
+    "Strategy Games",
+    "Shooters",
+    "Simulation Games",
+    "Hiking"
+  ],
+  "curious_facts": [
+    "Interested in Irish History",
+    "Fantasy Reader",
+  ]
+}
+```
