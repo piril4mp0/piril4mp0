@@ -8,7 +8,7 @@
     "Test Automation",
     "Backend Development",
     "Software Quality Assurance",
-    "Computer Science Fundamentals"
+    "Computer Science Student"
   ],
   "languages": [
     {
