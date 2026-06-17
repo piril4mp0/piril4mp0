@@ -18,6 +18,7 @@ Hello! I am **Murilo**, a passionate **Computer Science Student** and **Junior Q
 
 * **Education:** Computer Science Student
 * **Current Role:** Junior QA Engineer
+* **Age:** 20 years old
 * **Languages:**
   * 🇬🇧 **English:** Fluent
   * 🇧🇷 **Portuguese:** Native
