@@ -1,7 +1,7 @@
 <!-- Replace "piril4mp0" with your actual GitHub username in the URLs below if needed! -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+World!+I'm+Murilo;Junior+QA+Engineer;Computer+Science+Student;Test+Automation+%26+Backend+Developer&font=Fira+Code&center=true&width=550&height=50&color=3A86FF" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+World!+I'm+Murilo;Junior+QA+Engineer;Computer+Science+Student;Test+Automation+%26+Backend+Developer&font=Fira+Code&center=true&width=550&height=50&color=61CF5A" alt="Typing SVG">
 </p>
 
 <p align="center">
