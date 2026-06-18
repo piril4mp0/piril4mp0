@@ -1,9 +1,11 @@
 <!-- Replace "piril4mp0" with your actual GitHub username in the URLs below if needed! -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+World!+I'm+Murilo;Junior+QA+Engineer;Computer+Science+Student;Test+Automation+%26+Backend+Developer&font=Fira+Code&center=true&width=550&height=50&color=61CF5A" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+World!+I'm+Murilo;Junior+QA+Engineer;Hello%2C+World!+I'm+Murilo;Computer+Science+Student;Hello%2C+World!+I'm+Murilo;Test+Automation+%26+Backend+Developer&font=Fira+Code&center=true&width=550&height=50&color=61CF5A" alt="Typing SVG">
 </p>
-
+<p align="center">
+  <img width="640" height="266" alt="welcome-bilbo" src="https://media.tenor.com/z2xEZh-yijcAAAAd/welcome-bilbo.gif" />
+</p>
 <p align="center">
   <a href="https://github.com/piril4mp0">
     <img src="https://komarev.com/ghpvc/?username=piril4mp0&color=3A86FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
