@@ -6,11 +6,7 @@
 <p align="center">
   <img width="640" height="266" alt="welcome-bilbo" src="https://media.tenor.com/z2xEZh-yijcAAAAd/welcome-bilbo.gif" />
 </p>
-<p align="center">
-  <a href="https://github.com/piril4mp0">
-    <img src="https://komarev.com/ghpvc/?username=piril4mp0&color=3A86FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
+
 
 ---
 
@@ -88,3 +84,8 @@ Outside of coding, I'm a gamer and love nature:
 
 * Interested in Irish History
 * Fantasy Reader
+<p align="center">
+  <a href="https://github.com/piril4mp0">
+    <img src="https://komarev.com/ghpvc/?username=piril4mp0&color=3A86FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
