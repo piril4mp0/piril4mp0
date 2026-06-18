@@ -59,7 +59,15 @@ Here are my main areas of expertise and technologies I work with:
 
 
 ---
+#### AI Agents and tools
+<p align="left">
+<img width="50" height="50" alt="Google Antigravity" title="Google Antigravity" src="https://github.com/user-attachments/assets/96794b3d-cdd2-4b7a-895f-b09c1cb8e6ef" />
+<img width="50" height="50" alt="Gemini" title="Gemini" src="https://github.com/user-attachments/assets/d0175388-6233-48db-81a7-50a0e1ec84a2" />
+<img width="50" height="50" alt="MCP Server" title="MCP Server" src="https://github.com/user-attachments/assets/02688070-e84e-4228-a848-f3092b520a7c" />
 
+</p>
+
+---
 ### Interests & Hobbies
 
 Outside of coding, I'm a gamer and love nature:
