@@ -54,6 +54,7 @@ Here are my main areas of expertise and technologies I work with:
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
   <img src="https://skillicons.dev/icons?i=insomnia" alt="Insomnia" title="Insomnia" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" />
 </p>
 
 
