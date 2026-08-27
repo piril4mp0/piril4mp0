@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+World!+I'm+Murilo;Junior+QA+Engineer;Hello%2C+World!+I'm+Murilo;Computer+Science+Student;Hello%2C+World!+I'm+Murilo;Test+Automation+%26+Backend+Developer&font=Fira+Code&center=true&width=550&height=50&color=61CF5A" alt="Typing SVG">
 </p>
 <p align="center">
-  <img width="640" height="266" alt="welcome-bilbo" src="https://media.tenor.com/z2xEZh-yijcAAAAd/welcome-bilbo.gif" />
 </p>
 
 
